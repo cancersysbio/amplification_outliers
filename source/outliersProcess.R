@@ -1,3 +1,9 @@
+# helper functions for outlier plots from
+#  "Funtional screenings of amplification outlier oncogenes in organoid models of early tumorigenesis"
+# Salahudeen et al.
+# joseaseoane@vhio.net
+
+
 getOutliersmRNA = function(CNAFile,exp_met,Des,samples,outputName,cores=1,r2){
   
   exp_met = apply(exp_met,1,function(x) log2(x+1))

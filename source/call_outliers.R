@@ -1,3 +1,10 @@
+# This code replicate outlier analysis from
+#  "Funtional screenings of amplification outlier oncogenes in organoid models of early tumorigenesis"
+# Salahudeen et al.
+# Fig 1
+# joseaseoane@vhio.net
+
+
 # call outliers
 
 # Download TCGA expression data and CN profiles

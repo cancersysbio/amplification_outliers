@@ -1,3 +1,9 @@
+# This code replicate genome wide outlier plots from
+#  "Funtional screenings of amplification outlier oncogenes in organoid models of early tumorigenesis"
+# Salahudeen et al.
+# Fig 1
+# joseaseoane@vhio.net
+
 
 theme_Publication <- function(base_size=14, base_family="helvetica") {
   library(grid)
